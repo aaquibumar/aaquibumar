@@ -1,0 +1,7 @@
+adds two numbers in python.
+num1=1
+num2=2
+#add two numbers
+sum=num1+num2
+#Display the sum
+Print ("The sum of {0} and {1} is {2}
